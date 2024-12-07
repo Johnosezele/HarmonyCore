@@ -1,0 +1,12 @@
+{
+  "name": "harmonycore",
+  "version": "1.0.0",
+  "description": "A platform that reads to you, think websites, pdf's, epub's, docs being read to you so you can better focus on the content at hand",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC"
+}
